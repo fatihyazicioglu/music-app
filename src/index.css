@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(93, 92, 92);
+  background-color: rgb(209, 194, 194);
 }
 
 .App {
@@ -18,7 +18,7 @@ body {
 
 .c-player {
   display: block;
-  background-color: #4e4c4c;
+  background-color: #0c0b0b;
   display: block;
   margin: 0px auto;
   padding: 50px;
@@ -71,7 +71,7 @@ body {
   right: -25px;
   bottom: -25px;
   border-radius: 50%;
-  border: 3px dashed rgba(255, 206, 0, 1);
+  border: 3px dashed rgb(248, 182, 1);
 }
 
 .c-player--details .details-title {
