@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(209, 194, 194);
+  background-color: rgb(231, 231, 231);
 }
 
 .App {
@@ -18,7 +18,7 @@ body {
 
 .c-player {
   display: block;
-  background-color: #0c0b0b;
+  background-color: #472247;
   display: block;
   max-width: 500px;
   min-width: 30%;
